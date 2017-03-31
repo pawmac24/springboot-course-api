@@ -21,3 +21,8 @@ PUT /topics/javascript
 </pre>
 
 DELETE /topics/javascript
+
+<pre>
+<p>resources/application.properties</p>
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+</pre>
